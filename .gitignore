@@ -1,0 +1,9 @@
+# Eclipse 관련 파일/폴더 제외
+.settings/
+.project
+.classpath
+
+# 빌드된 파일 제외
+bin/
+target/
+out/
